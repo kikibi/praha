@@ -1,4 +1,4 @@
-[preview:2](articles/zoo.md)
+[preview:3](articles/zoo.md)
 - - - -
 [preview:3](articles/museum.md)
 - - - -
