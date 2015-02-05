@@ -1,5 +1,3 @@
-[gimmick:theme](flatly)
-
 [preview:4](articles/zoo.md)
 - - - -
 [preview:3](articles/museum.md)
