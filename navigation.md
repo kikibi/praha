@@ -1,5 +1,6 @@
 [gimmick:theme](flatly)
 
+# Сайт школьного психолога
 [Home](index.md)
 [Zoo](articles/zoo.md)
 [Museum of national history](articles/museum.md)
